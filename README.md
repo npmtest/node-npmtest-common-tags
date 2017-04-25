@@ -1,6 +1,6 @@
 # npmtest-common-tags
 
-#### test coverage for  [common-tags (v1.4.0)](https://github.com/declandewet/common-tags)  [![npm package](https://img.shields.io/npm/v/npmtest-common-tags.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-common-tags) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-common-tags.svg)](https://travis-ci.org/npmtest/node-npmtest-common-tags)
+#### basic test coverage for  [common-tags (v1.4.0)](https://github.com/declandewet/common-tags)  [![npm package](https://img.shields.io/npm/v/npmtest-common-tags.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-common-tags) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-common-tags.svg)](https://travis-ci.org/npmtest/node-npmtest-common-tags)
 
 #### a few common utility template tags for ES2015
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-common-tags/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-common-tags/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-common-tags/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-common-tags/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-common-tags/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-common-tags/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-common-tags/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-common-tags/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-common-tags/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-common-tags/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-common-tags/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-common-tags/build/coverage.html/index.html)
 
@@ -170,7 +170,8 @@
             "es"
         ]
     },
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "bin": {}
 }
 ```
 
